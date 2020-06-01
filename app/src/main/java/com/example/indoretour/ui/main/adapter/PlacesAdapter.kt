@@ -98,7 +98,7 @@ class PlacesAdapter(private val listener: HandleClickListener) :
                 Places(
                     title = "Chhappan Dukan",
                     imageUrl = "https://www.holidify.com/images/compressed/8058.jpg",
-                    description = R.string.annapurna_temple_desc,
+                    description = R.string.chhappan_dukaan_desc,
                     shareUrl = "https://www.holidify.com/places/indore/chhappan-dukan-sightseeing-6232.html"
                 )
             )
